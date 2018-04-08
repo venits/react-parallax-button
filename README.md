@@ -7,7 +7,7 @@ Demo: https://react-parallax.firebaseapp.com/
 ## Preview
 ![Preview](https://raw.githubusercontent.com/venits/react-parallax-button/master/demo.gif)
 
-## Instalation
+## Installation
 
 Install module:
 
