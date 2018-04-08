@@ -29,7 +29,7 @@ All you have to do to create button:
 ```js
 render() {
   return (
-	<ParallaxButton text="Amazing button"/>
+    <ParallaxButton text="Amazing button"/>
   )
 }
 ```
