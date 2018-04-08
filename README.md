@@ -56,7 +56,7 @@ Setting value to `0.5` will make your parallax effect half intensive.
 
 ### ParallaxWrapper
 
-This component will allow you add parallax effect to any view or image in your application.
+This component will allow you to add parallax effect to any view or image in your application.
 
 Simply wrap your component with `ParallaxWrapper` and you good to go ;)
 
