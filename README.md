@@ -61,7 +61,7 @@ This component will allow you to add parallax effect to any view or image in you
 Simply wrap your component with `ParallaxWrapper` and you good to go ;)
 
 ```js
-<ParallaxWrapper>  
+<ParallaxWrapper parallaxScale={0.25}>  
   <img src={your_image} alt=""/>  
 </ParallaxWrapper>
 ```
